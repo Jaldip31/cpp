@@ -1,3 +1,4 @@
+//simple_intrest
 #include <iostream>
 using namespace std;
 class intrest

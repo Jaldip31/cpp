@@ -1,4 +1,4 @@
-
+//access specifier
 #include <iostream>
 using namespace std;
 class Base

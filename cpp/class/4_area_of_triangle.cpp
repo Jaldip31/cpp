@@ -1,3 +1,4 @@
+// area_of_triangle
 #include <iostream>
 using namespace std;
 class triangle
